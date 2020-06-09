@@ -1,0 +1,36 @@
+#home_search_field {
+
+}
+
+#home_search_field #s {
+    height: 54px;
+}
+
+
+.bg_color_relax {
+    background-color: #17A2B8 !important;
+    color: white;
+}
+
+
+/* Override */
+
+#footer {
+    background: #17A2B8;
+    background-color: rgb(33, 37, 41);
+    border-top: 4px solid rgb(234, 234, 234);
+    font-size: 0.9em;
+    margin-top: 50px;
+    padding: 0;
+    position: relative;
+    clear: both;
+}
+#footer .footer-copyright{
+    background: #178ca2;
+    color: white;
+}
+
+#footer .footer-copyright p{
+    background: #178ca2;
+    color: white;
+}
